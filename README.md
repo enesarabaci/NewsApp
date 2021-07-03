@@ -1,6 +1,6 @@
 # NewsApp
 
-Bu projemde [themoviedb.org](https://www.newsapi.org) web sitesinden edindiğim API kodunu kullanarak bir haber uygulaması geliştirdim. </br></br>
+Bu projemde [newsapi.org](https://newsapi.org) web sitesinden edindiğim API kodunu kullanarak bir haber uygulaması geliştirdim. </br></br>
 Bu uygulama ile son dakika haberler görüntülenebilir, filtrelenebilir ve aranabilir. İstenilen haberler sonrasında kolayca bulunmak üzere favorilere eklenebilir. 
 
 # Uygulamada Kullanılan Kütüphane ve Yapılar
