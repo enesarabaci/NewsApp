@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/records_graph"
+    app:startDestination="@id/recordsFragment">
+
+    <fragment
+        android:id="@+id/recordsFragment"
+        android:name="com.example.newsapp.View.FavoritesFragment"
+        android:label="Kayıtlar">
+        <action
+            android:id="@+id/action_recordsFragment_to_detailFragment"
+            app:destination="@id/detailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="com.example.newsapp.View.DetailFragment"
+        android:label="DetailFragment" >
+        <argument
+            android:name="article"
+            app:argType="com.example.newsapp.Model.Article" />
+    </fragment>
+</navigation>

@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="search">Arama</string>
+    <string name="searchOff">Arama Yok</string>
+    <string name="records">Kayıtlar</string>
+    <string name="article_image">Article image</string>
+    <string name="search_button">Search button</string>
+    <string name="favorite_button">Favorite button</string>
+    <string name="load_state_footer_error_message">Sonuçlar yüklenemedi</string>
+    <string name="retry">Tekrar dene</string>
+    <string name="search_hint">Haber ara</string>
+    <string-array name="categories">
+        <item>İş/Ticaret</item>
+        <item>Eğlence</item>
+        <item>Genel</item>
+        <item>Sağlık</item>
+        <item>Bilim</item>
+        <item>Spor</item>
+        <item>Teknoloji</item>
+    </string-array>
+    <string-array name="countries">
+        <item>Birleşik Arap Emirlikleri</item>
+        <item>Arjantin</item>
+        <item>Avusturya</item>
+        <item>Avustralya</item>
+        <item>Belçika</item>
+        <item>Bulgaristan</item>
+        <item>Brezilya</item>
+        <item>Kanada</item>
+        <item>İsviçre</item>
+        <item>Çin</item>
+        <item>Kolombiya</item>
+        <item>Küba</item>
+        <item>Çek Cumhuriyeti</item>
+        <item>Almanya</item>
+        <item>Mısır</item>
+        <item>Fransa</item>
+        <item>Büyük Britanya</item>
+        <item>Yunanistan</item>
+        <item>Hong Kong</item>
+        <item>Macaristan</item>
+        <item>Endonezya</item>
+        <item>İrlanda</item>
+        <item>İsrail</item>
+        <item>Hindistan</item>
+        <item>İtalya</item>
+        <item>Japonya</item>
+        <item>Kuzey Kore</item>
+        <item>Litvanya</item>
+        <item>Letonya</item>
+        <item>Fas</item>
+        <item>Meksika</item>
+        <item>Malezya</item>
+        <item>Nijerya</item>
+        <item>Hollanda</item>
+        <item>Norveç</item>
+        <item>Yeni Zelanda</item>
+        <item>Filipinler</item>
+        <item>Polonya</item>
+        <item>Portekiz</item>
+        <item>Sırbistan</item>
+        <item>Rusya Federasyonu</item>
+        <item>Suudi Arabistan</item>
+        <item>İsveç</item>
+        <item>Singapur</item>
+        <item>Slovenya</item>
+        <item>Slovak Cumhuriyeti</item>
+        <item>Tayland</item>
+        <item>Türkiye</item>
+        <item>Tayvan</item>
+        <item>Ukrayna</item>
+        <item>Amerika Birleşik Devletleri</item>
+        <item>Venezüela</item>
+        <item>Güney Afrika</item>
+    </string-array>
+</resources>
