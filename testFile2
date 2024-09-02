@@ -1,0 +1,471 @@
+{
+    "data": {
+        "commentInfo": [
+            {
+                "time": " ",
+                "comment": "Match ends, Spain 2, England 1.",
+                "etype": "end14"
+            },
+            {
+                "time": "90'+5'",
+                "comment": "Second Half ends, Spain 2, England 1.",
+                "etype": "end2"
+            },
+            {
+                "time": "90'+4'",
+                "comment": "Foul by Mikel Merino (Spain).",
+                "etype": "freekicklost"
+            },
+            {
+                "time": "90'+4'",
+                "comment": "Marc Guéhi (England) wins a free kick in the defensive half.",
+                "etype": "freekickwon"
+            },
+            {
+                "time": "90'+3'",
+                "comment": "Marc Cucurella (Spain) wins a free kick in the defensive half.",
+                "etype": "freekickwon"
+            },
+            {
+                "time": "90'+3'",
+                "comment": "Foul by Bukayo Saka (England).",
+                "etype": "freekicklost"
+            },
+            {
+                "time": "90'+3'",
+                "comment": "Foul by Mikel Merino (Spain).",
+                "etype": "freekicklost"
+            },
+            {
+                "time": "90'+3'",
+                "comment": "Marc Guéhi (England) wins a free kick in the defensive half.",
+                "etype": "freekickwon"
+            },
+            {
+                "time": "90'+3'",
+                "comment": "Foul by Nico Williams (Spain).",
+                "etype": "freekicklost"
+            },
+            {
+                "time": "90'+3'",
+                "comment": "Cole Palmer (England) wins a free kick in the defensive half.",
+                "etype": "freekickwon"
+            },
+            {
+                "time": "90'+2'",
+                "comment": "Ollie Watkins (England) is shown the yellow card for a bad foul.",
+                "etype": "yellowcard"
+            },
+            {
+                "time": "90'+1'",
+                "comment": "Nacho (Spain) wins a free kick in the defensive half.",
+                "etype": "freekickwon"
+            },
+            {
+                "time": "90'+1'",
+                "comment": "Foul by Ollie Watkins (England).",
+                "etype": "freekicklost"
+            },
+            {
+                "time": "90'",
+                "comment": "Attempt missed. Declan Rice (England) header from the centre of the box is close, but misses to the left following a corner.",
+                "etype": "miss"
+            },
+            {
+                "time": "90'",
+                "comment": "Attempt blocked. Marc Guéhi (England) header from very close range is blocked.",
+                "etype": "attemptblocked"
+            },
+            {
+                "time": "90'",
+                "comment": "Attempt saved. Declan Rice (England) header from the centre of the box is saved in the centre of the goal. Assisted by Cole Palmer with a cross.",
+                "etype": "attemptsaved"
+            },
+            {
+                "time": "89'",
+                "comment": "Substitution, Spain. Mikel Merino replaces Lamine Yamal.",
+                "etype": "substitution"
+            },
+            {
+                "time": "89'",
+                "comment": "Substitution, England. Ivan Toney replaces Phil Foden.",
+                "etype": "substitution"
+            },
+            {
+                "time": "88'",
+                "comment": "Corner, England. Conceded by Nacho.",
+                "etype": "corner"
+            },
+            {
+                "time": "86'",
+                "comment": "Goal! Spain 2, England 1. Mikel Oyarzabal (Spain) right footed shot from the centre of the box to the centre of the goal. Assisted by Marc Cucurella with a cross.",
+                "etype": "goal"
+            },
+            {
+                "time": "85'",
+                "comment": "Corner, Spain. Conceded by Declan Rice.",
+                "etype": "corner"
+            },
+            {
+                "time": "83'",
+                "comment": "Substitution, Spain. Nacho replaces Robin Le Normand.",
+                "etype": "substitution"
+            },
+            {
+                "time": "82'",
+                "comment": "Attempt saved. Lamine Yamal (Spain) left footed shot from the centre of the box is saved in the centre of the goal. Assisted by Nico Williams.",
+                "etype": "attemptsaved"
+            },
+            {
+                "time": "78'",
+                "comment": "Corner, Spain. Conceded by John Stones.",
+                "etype": "corner"
+            },
+            {
+                "time": "73'",
+                "comment": "Goal! Spain 1, England 1. Cole Palmer (England) left footed shot from outside the box to the bottom left corner. Assisted by Jude Bellingham.",
+                "etype": "goal"
+            },
+            {
+                "time": "72'",
+                "comment": "Attempt saved. Mikel Oyarzabal (Spain) left footed shot from the left side of the box is saved in the bottom left corner. Assisted by Martín Zubimendi.",
+                "etype": "attemptsaved"
+            },
+            {
+                "time": "72'",
+                "comment": "Offside, Spain. Lamine Yamal is caught offside.",
+                "etype": "offside"
+            },
+            {
+                "time": "70'",
+                "comment": "Attempt blocked. Ollie Watkins (England) right footed shot from outside the box is blocked.",
+                "etype": "attemptblocked"
+            },
+            {
+                "time": "70'",
+                "comment": "Substitution, England. Cole Palmer replaces Kobbie Mainoo.",
+                "etype": "substitution"
+            },
+            {
+                "time": "70'",
+                "comment": "Attempt missed. Fabián Ruiz (Spain) left footed shot from outside the box is too high. Assisted by Dani Olmo following a corner.",
+                "etype": "miss"
+            },
+            {
+                "time": "69'",
+                "comment": "Corner, Spain. Conceded by John Stones.",
+                "etype": "corner"
+            },
+            {
+                "time": "68'",
+                "comment": "Substitution, Spain. Mikel Oyarzabal replaces Álvaro Morata.",
+                "etype": "substitution"
+            },
+            {
+                "time": "67'",
+                "comment": "Attempt blocked. Aymeric Laporte (Spain) header from the centre of the box is blocked. Assisted by Nico Williams with a cross.",
+                "etype": "attemptblocked"
+            },
+            {
+                "time": "66'",
+                "comment": "Corner, Spain. Conceded by Jordan Pickford.",
+                "etype": "corner"
+            },
+            {
+                "time": "66'",
+                "comment": "Attempt saved. Lamine Yamal (Spain) left footed shot from the centre of the box is saved in the bottom left corner. Assisted by Dani Olmo.",
+                "etype": "attemptsaved"
+            },
+            {
+                "time": "64'",
+                "comment": "Attempt missed. Jude Bellingham (England) left footed shot from outside the box is close, but misses to the left. Assisted by Bukayo Saka.",
+                "etype": "miss"
+            },
+            {
+                "time": "62'",
+                "comment": "Foul by Nico Williams (Spain).",
+                "etype": "freekicklost"
+            },
+            {
+                "time": "62'",
+                "comment": "Bukayo Saka (England) wins a free kick on the right wing.",
+                "etype": "freekickwon"
+            },
+            {
+                "time": "61'",
+                "comment": "Substitution, England. Ollie Watkins replaces Harry Kane.",
+                "etype": "substitution"
+            },
+            {
+                "time": "56'",
+                "comment": "Foul by Marc Cucurella (Spain).",
+                "etype": "freekicklost"
+            },
+            {
+                "time": "56'",
+                "comment": "Bukayo Saka (England) wins a free kick in the defensive half.",
+                "etype": "freekickwon"
+            },
+            {
+                "time": "56'",
+                "comment": "Attempt missed. Nico Williams (Spain) right footed shot from outside the box is close, but misses to the left. Assisted by Fabián Ruiz.",
+                "etype": "miss"
+            },
+            {
+                "time": "55'",
+                "comment": "Attempt missed. Álvaro Morata (Spain) right footed shot from the right side of the box misses to the left. Assisted by Lamine Yamal with a through ball.",
+                "etype": "miss"
+            },
+            {
+                "time": "55'",
+                "comment": "Attempt blocked. Álvaro Morata (Spain) left footed shot from outside the box is blocked. Assisted by Dani Carvajal.",
+                "etype": "attemptblocked"
+            },
+            {
+                "time": "53'",
+                "comment": "John Stones (England) is shown the yellow card for a bad foul.",
+                "etype": "yellowcard"
+            },
+            {
+                "time": "53'",
+                "comment": "Martín Zubimendi (Spain) wins a free kick in the attacking half.",
+                "etype": "freekickwon"
+            },
+            {
+                "time": "53'",
+                "comment": "Foul by John Stones (England).",
+                "etype": "freekicklost"
+            },
+            {
+                "time": "49'",
+                "comment": "Attempt missed. Dani Olmo (Spain) left footed shot from the centre of the box misses to the right. Assisted by Nico Williams.",
+                "etype": "miss"
+            },
+            {
+                "time": "47'",
+                "comment": "Goal! Spain 1, England 0. Nico Williams (Spain) left footed shot from the left side of the box to the bottom right corner. Assisted by Lamine Yamal.",
+                "etype": "goal"
+            },
+            {
+                "time": "45'",
+                "comment": "Substitution, Spain. Martín Zubimendi replaces Rodri because of an injury.",
+                "etype": "substitution"
+            },
+            {
+                "time": " ",
+                "comment": "Second Half begins Spain 0, England 0.",
+                "etype": "start"
+            },
+            {
+                "time": "45'+2'",
+                "comment": "First Half ends, Spain 0, England 0.",
+                "etype": "end1"
+            },
+            {
+                "time": "45'+1'",
+                "comment": "Attempt saved. Phil Foden (England) left footed shot from a difficult angle on the left is saved in the bottom left corner.",
+                "etype": "attemptsaved"
+            },
+            {
+                "time": "45'",
+                "comment": "Foul by Nico Williams (Spain).",
+                "etype": "freekicklost"
+            },
+            {
+                "time": "45'",
+                "comment": "Kyle Walker (England) wins a free kick on the right wing.",
+                "etype": "freekickwon"
+            },
+            {
+                "time": "45'",
+                "comment": "Attempt blocked. Harry Kane (England) right footed shot from the centre of the box is blocked. Assisted by Jude Bellingham.",
+                "etype": "attemptblocked"
+            },
+            {
+                "time": "43'",
+                "comment": "Corner, Spain. Conceded by John Stones.",
+                "etype": "corner"
+            },
+            {
+                "time": "43'",
+                "comment": "Attempt blocked. Álvaro Morata (Spain) right footed shot from the centre of the box is blocked.",
+                "etype": "attemptblocked"
+            },
+            {
+                "time": "35'",
+                "comment": "Attempt blocked. Dani Olmo (Spain) right footed shot from outside the box is blocked. Assisted by Lamine Yamal.",
+                "etype": "attemptblocked"
+            },
+            {
+                "time": "35'",
+                "comment": "Corner, Spain. Conceded by Marc Guéhi.",
+                "etype": "corner"
+            },
+            {
+                "time": "34'",
+                "comment": "Corner, Spain. Conceded by Luke Shaw.",
+                "etype": "corner"
+            },
+            {
+                "time": "33'",
+                "comment": "Delay over. They are ready to continue.",
+                "etype": "enddelay"
+            },
+            {
+                "time": "33'",
+                "comment": "Delay in match because of an injury Phil Foden (England).",
+                "etype": "startdelay"
+            },
+            {
+                "time": "32'",
+                "comment": "Foul by Rodri (Spain).",
+                "etype": "freekicklost"
+            },
+            {
+                "time": "32'",
+                "comment": "Jude Bellingham (England) wins a free kick in the defensive half.",
+                "etype": "freekickwon"
+            },
+            {
+                "time": "32'",
+                "comment": "Delay over. They are ready to continue.",
+                "etype": "enddelay"
+            },
+            {
+                "time": "31'",
+                "comment": "Delay in match because of an injury Declan Rice (England).",
+                "etype": "startdelay"
+            },
+            {
+                "time": "31'",
+                "comment": "Dani Olmo (Spain) is shown the yellow card for a bad foul.",
+                "etype": "yellowcard"
+            },
+            {
+                "time": "30'",
+                "comment": "Foul by Dani Olmo (Spain).",
+                "etype": "freekicklost"
+            },
+            {
+                "time": "30'",
+                "comment": "Declan Rice (England) wins a free kick in the defensive half.",
+                "etype": "freekickwon"
+            },
+            {
+                "time": "28'",
+                "comment": "Attempt saved. Fabián Ruiz (Spain) right footed shot from the right side of the box is saved in the centre of the goal. Assisted by Dani Carvajal.",
+                "etype": "attemptsaved"
+            },
+            {
+                "time": "27'",
+                "comment": "Delay over. They are ready to continue.",
+                "etype": "enddelay"
+            },
+            {
+                "time": "26'",
+                "comment": "Delay in match because of an injury Fabián Ruiz (Spain).",
+                "etype": "startdelay"
+            },
+            {
+                "time": "25'",
+                "comment": "Harry Kane (England) is shown the yellow card for a bad foul.",
+                "etype": "yellowcard"
+            },
+            {
+                "time": "25'",
+                "comment": "Fabián Ruiz (Spain) wins a free kick in the defensive half.",
+                "etype": "freekickwon"
+            },
+            {
+                "time": "25'",
+                "comment": "Foul by Harry Kane (England).",
+                "etype": "freekicklost"
+            },
+            {
+                "time": "24'",
+                "comment": "Foul by Dani Carvajal (Spain).",
+                "etype": "freekicklost"
+            },
+            {
+                "time": "24'",
+                "comment": "Bukayo Saka (England) wins a free kick in the defensive half.",
+                "etype": "freekickwon"
+            },
+            {
+                "time": "23'",
+                "comment": "Corner, Spain. Conceded by Marc Guéhi.",
+                "etype": "corner"
+            },
+            {
+                "time": "22'",
+                "comment": "Foul by Marc Cucurella (Spain).",
+                "etype": "freekicklost"
+            },
+            {
+                "time": "22'",
+                "comment": "Phil Foden (England) wins a free kick in the defensive half.",
+                "etype": "freekickwon"
+            },
+            {
+                "time": "17'",
+                "comment": "Attempt blocked. Declan Rice (England) right footed shot from outside the box is blocked. Assisted by Bukayo Saka.",
+                "etype": "attemptblocked"
+            },
+            {
+                "time": "15'",
+                "comment": "Corner, England. Conceded by Aymeric Laporte.",
+                "etype": "corner"
+            },
+            {
+                "time": "13'",
+                "comment": "Attempt missed. Robin Le Normand (Spain) right footed shot from the centre of the box misses to the left. Assisted by Rodri with a headed pass following a corner.",
+                "etype": "miss"
+            },
+            {
+                "time": "12'",
+                "comment": "Corner, Spain. Conceded by John Stones.",
+                "etype": "corner"
+            },
+            {
+                "time": "12'",
+                "comment": "Attempt blocked. Nico Williams (Spain) left footed shot from a difficult angle on the left is blocked.",
+                "etype": "attemptblocked"
+            },
+            {
+                "time": "11'",
+                "comment": "Aymeric Laporte (Spain) wins a free kick in the defensive half.",
+                "etype": "freekickwon"
+            },
+            {
+                "time": "11'",
+                "comment": "Foul by Marc Guéhi (England).",
+                "etype": "freekicklost"
+            },
+            {
+                "time": "10'",
+                "comment": "Foul by Rodri (Spain).",
+                "etype": "freekicklost"
+            },
+            {
+                "time": "10'",
+                "comment": "Jude Bellingham (England) wins a free kick on the left wing.",
+                "etype": "freekickwon"
+            },
+            {
+                "time": "5'",
+                "comment": "Corner, Spain. Conceded by John Stones.",
+                "etype": "corner"
+            },
+            {
+                "time": " ",
+                "comment": "First Half begins.",
+                "etype": "start"
+            },
+            {
+                "time": "",
+                "comment": "Lineups are announced and players are warming up.",
+                "etype": "lineup"
+            }
+        ]
+    }
+}
